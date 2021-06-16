@@ -1,0 +1,31 @@
+.form-button{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    position: relative;
+    top: 50px;
+    left: 80px;
+}
+
+
+.login-form{
+    padding-top: 50px;
+}
+
+.username-content{
+    display: flex;
+    padding-left: 20px;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+    
+}
+.password-content{
+    padding-top:50px ;
+    display: flex;
+    padding-left: 20px;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+}
+

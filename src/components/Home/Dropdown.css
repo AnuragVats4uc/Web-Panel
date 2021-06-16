@@ -1,0 +1,23 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 100px;
+}
+
+.dropdown{
+    background-color: #ffff;
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    left: 20px;
+    top: 120px;
+}
+
+.information{
+    text-align: left;
+    width: 95vw;
+    position: relative;
+    left: 30px;
+}
